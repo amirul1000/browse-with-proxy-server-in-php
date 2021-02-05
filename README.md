@@ -1,7 +1,9 @@
 "# browse-with-proxy-server-in-php"
 
+Browse in Proxy Server in PHP with front end,admin section and member section
+===============================================================================
 
-Youtube Tutorial : 
+Youtube Tutorial : https://youtu.be/ExBNfw1wbSs
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
